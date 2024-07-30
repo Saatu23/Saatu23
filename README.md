@@ -2,7 +2,7 @@
 - 👀 I’m interested in tech gadgets
 - 🌱 I’m currently learning Data Structures and Algorithms & Web Development
 - 💞️ I’m looking to collaborate on tech gadgets review
-- 📫 How to reach me just pimg me on discord @cskm_
+- 📫 How to reach me just ping me on discord @cskm_
 - ⚡ Fun fact: I am a Mechanical Engineer
 
 <!---
