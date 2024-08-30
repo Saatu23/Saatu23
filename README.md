@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Saatu23
+- 👋 Hi, I’m @Sattu23
 - 👀 I’m interested in tech gadgets
 - 🌱 I’m currently learning Data Structures and Algorithms & Web Development
 - 💞️ I’m looking to collaborate on tech gadgets review
