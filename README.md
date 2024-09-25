@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @Sattu23
+- 🥇 Student of IIT BHU, Varanasi
 - 👀 I’m interested in tech gadgets
 - 🌱 I’m currently learning Data Structures and Algorithms & Web Development
 - 💞️ I’m looking to collaborate on tech gadgets review
